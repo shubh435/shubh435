@@ -1,4 +1,4 @@
-# Shubham Sarode - Frontend Engineer
+# Shubham Sarode - Software Engineer
 
 👋 Hi, I'm Shubham Sarode, a passionate Frontend Engineer with 2.5+ years of experience in building interactive and responsive web applications using modern web technologies like **React JS**, **Redux**, **JavaScript**, **TypeScript**, **HTML**, **CSS**, and more. I thrive in creating seamless user experiences and delivering high-quality code.
 
