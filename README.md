@@ -29,6 +29,6 @@ Check out more projects on my [portfolio website](https://shubh435.github.io/).
 ## 📫 Contact
 
 - **Email**: shubhamsarode435@gmail.com
-- **LinkedIn**: [Shubham Sarode]((https://www.linkedin.com/in/shubhamsarode-dev/))
+- **LinkedIn**: [Shubham Sarode](https://www.linkedin.com/in/shubhamsarode-dev/)
 
 Feel free to connect with me for collaboration or any exciting opportunities!
