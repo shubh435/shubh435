@@ -1,12 +1,14 @@
 # Shubham Sarode - Software Engineer
 
-👋 Hi, I'm Shubham Sarode, a passionate Frontend Engineer with 2.5+ years of experience in building interactive and responsive web applications using modern web technologies like **React JS**, **Redux**, **JavaScript**, **TypeScript**, **HTML**, **CSS**, and more. I thrive in creating seamless user experiences and delivering high-quality code.
+👋 Hi, I'm Shubham Sarode. I'm a passionate Front-End Engineer with 3+ years of experience building interactive and responsive web applications and mobile applications using modern technologies, such as React Native, React JS, Redux, JavaScript, TypeScript, HTML, CSS, and more. I thrive on creating seamless user experiences and delivering high-quality code.
 
 ## 🚀 Skills
 
-- **Frontend Development**: React JS, React Native, Redux, JavaScript, TypeScript, HTML, CSS, Material-UI (MUI), Tailwind CSS, Electron.js
+- **Frontend Development**: React Native, React JS, Redux, JavaScript, TypeScript, HTML, CSS, Material-UI (MUI), Tailwind CSS, Electron.js
+- **Mobile Development**: React Native, Android Studio, Xcode, Java, Kotlin, C++/Swift, Redux Toolkit
+- **Web Development**:  React Js, Javascript, Typescript, HTML, CSS, MUI, Tailwind CSS, Bootstrap, etc.
 - **Testing**: Jest, Enzyme
-- **UI/UX Design**: Responsive Web Design, Figma
+- **UI/UX Design**: Responsive Web\Mobile Design, Figma
 
 ## 💼 Projects
 
