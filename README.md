@@ -34,25 +34,25 @@ A mobile app built with React Native to collect survey responses from patients v
 - Subscription-based access with referral tracking
 
 ### 👩‍👧‍👦 Parents Who Date (Feb 2024 – Jul 2024)
-A React Native app designed to help single parents connect securely and meaningfully.
-- Real-time messaging, OTP login, location-based discovery
-- Firebase Firestore integration and referral system
+A React Native-based social dating app designed for single parents, featuring:
+- Firebase Auth (Social, OTP)
+- Geolocation-based user discovery
+- Real-time chat & push notifications
+- Referral system & Firestore integration
 
 ### 🍽️ Fudu (Jul 2023 – Jan 2024)
-A hybrid of Zomato and Instagram:
-- Social media features like photo posts, likes, and comments
-- Map-based restaurant search with filters
-- Built using Firebase (auth, Firestore, storage)
+A unique social + food platform combining Zomato and Instagram functionalities:
+- Restaurant discovery with map view & filters
+- Social sharing with posts, likes, and reviews
+- Firebase Auth, Firestore, and cloud storage
 
 ### 📚 21K Shared Services INR (Dec 2022 – Jul 2023)
-React Native + React JS app for internal tools:
-- Developed wiki, referral, and live streaming features
-- Integrated Rich Text Editor and Video SDK
+- Built a company wiki, “Refer a Friend”, and live video features using React JS & React Native
+- Integrated Video SDK and rich text editing tools
 
 ### 💇 Salon Web App (Aug 2022 – Sep 2022)
-Responsive booking and dashboard system using:
-- React JS, Redux, Context API
-- Custom reusable components with MUI
+- Developed a responsive web dashboard using React JS, Redux, and MUI
+- Focused on appointment booking, service browsing, and real-time updates
 
 ### 🌍 3D Globe Simulation
 Created an animated 3D Earth scene using Three.js:
@@ -65,8 +65,8 @@ Created an animated 3D Earth scene using Three.js:
 
 ## 🎓 Education
 
-- **Master of Computer Applications** – North Maharashtra University, Jalgaon (2021–2022)  
-- **Bachelor of Computer Science** – RTMNU University, Nagpur (2017–2020)
+- 🎓 **Master of Computer Applications** – North Maharashtra University, Jalgaon (2021–2022)  
+- 🎓 **Bachelor of Computer Science** – RTMNU University, Nagpur (2017–2020)
 
 ---
 
@@ -92,4 +92,4 @@ Created an animated 3D Earth scene using Three.js:
 
 ---
 
-> 🚀 *Open to freelance work, collaborations, and full-time opportunities in front-end, back-end, and mobile development!*
+>  🚀 *Open to freelance opportunities, tech collaborations, and full-time roles in front-end/Back-end/mobile/desktop/web development!*
