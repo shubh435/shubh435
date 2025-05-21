@@ -1,6 +1,8 @@
-# 👨‍💻 Shubham Sarode - Front-End Engineer
+# 👨‍💻 Shubham Sarode – Front-End / Mobile Engineer
 
-Hi there! I'm **Shubham Sarode**, a passionate and experienced Front-End Engineer with over **3 years of professional experience** building fast, scalable, and interactive web and mobile applications. I specialize in **React Native**, **React JS**, and the modern JavaScript/TypeScript ecosystem. I'm driven by crafting beautiful, responsive UIs and delivering high-quality, testable code.
+Hi, I'm **Shubham Sarode**, a passionate Software Engineer with **3+ years of experience** building modern, scalable, and performant web and mobile applications. I specialize in **React Native**, **React JS**, and the **JavaScript/TypeScript ecosystem**, with a strong focus on delivering seamless UI/UX, clean architecture, and robust test coverage.
+
+I thrive in agile teams, love solving real-world problems, and enjoy working across the full development lifecycle.
 
 ---
 
@@ -12,78 +14,82 @@ React Native · React JS · Redux · JavaScript (ES6+) · TypeScript · HTML5 ·
 ### 📱 Mobile App Development
 React Native · Redux Toolkit · React Navigation · Deep Linking · Push Notifications · Lottie Animations · Android Studio · Xcode
 
+### 🖥️ Backend & Dev Tools
+Node.js · Express.js · MongoDB (Basic) · Firebase · Google Maps API · REST APIs · Axios · Formik
+
 ### 🧪 Testing & Quality
-Jest · React Native Testing Library · React Testing Library · Enzyme · Unit Testing
+Jest · React Testing Library · React Native Testing Library · Enzyme · Unit Testing · CI/CD Pipelines (GitHub Actions, SonarQube)
 
 ### ⚙️ Tools & Platforms
-Git · GitHub · GitLab · Bitbucket · Firebase · Google Maps API · Figma · Docker (basic) · CI/CD (GitHub Actions, Vercel) · SonarQube
+Git · GitHub · GitLab · Bitbucket · Docker (Basic) · Vercel · GitHub Pages · JIRA · Confluence · Figma
 
 ---
 
 ## 💼 Featured Projects
 
-### 👩‍👧‍👦 Medical Trial (Feb 2025 – Current)
-A React Native-based Mobile app for to organize survey from doctor to patient vie social media connection, featuring:
-- Chat & call using Quickblox, React native agora
-- Firebase Auth (Social, OTP)
-- Real-time chat & push notifications
-- Referral system & Reward subcription based intergration.
+### 🧪 Medical Trial (Feb 2025 – Present)
+A mobile app built with React Native to collect survey responses from patients via doctor referrals and social media.
+- Chat and video via **QuickBlox** & **Agora**
+- Firebase Auth (Social, OTP), dynamic rewards, push notifications
+- Subscription-based access with referral tracking
 
-### 👩‍👧‍👦 Parents Who Date (Feb 2024 – July 2024)
-A React Native-based social dating app designed for single parents, featuring:
-- Firebase Auth (Social, OTP)
-- Geolocation-based user discovery
-- Real-time chat & push notifications
-- Referral system & Firestore integration
+### 👩‍👧‍👦 Parents Who Date (Feb 2024 – Jul 2024)
+A React Native app designed to help single parents connect securely and meaningfully.
+- Real-time messaging, OTP login, location-based discovery
+- Firebase Firestore integration and referral system
 
-### 🍴 Fudu (Jul 2023 – Jan 2024)
-A unique social + food platform combining Zomato and Instagram functionalities:
-- Restaurant discovery with map view & filters
-- Social sharing with posts, likes, and reviews
-- Firebase Auth, Firestore, and cloud storage
+### 🍽️ Fudu (Jul 2023 – Jan 2024)
+A hybrid of Zomato and Instagram:
+- Social media features like photo posts, likes, and comments
+- Map-based restaurant search with filters
+- Built using Firebase (auth, Firestore, storage)
 
-### 🌐 21K Shared Services INR (Dec 2022 – Jul 2023)
-- Built a company wiki, “Refer a Friend”, and live video features using React JS & React Native
-- Integrated Video SDK and rich text editing tools
+### 📚 21K Shared Services INR (Dec 2022 – Jul 2023)
+React Native + React JS app for internal tools:
+- Developed wiki, referral, and live streaming features
+- Integrated Rich Text Editor and Video SDK
 
 ### 💇 Salon Web App (Aug 2022 – Sep 2022)
-- Developed a responsive web dashboard using React JS, Redux, and MUI
-- Focused on appointment booking, service browsing, and real-time updates
+Responsive booking and dashboard system using:
+- React JS, Redux, Context API
+- Custom reusable components with MUI
 
 ### 🌍 3D Globe Simulation
-- Created an interactive 3D globe in React using Three.js with solar system-like stars
+Created an animated 3D Earth scene using Three.js:
+- Includes star field and solar system-like effects
 
-🔗 Check out more on my [**portfolio website**](https://shubh435.github.io/)  
-📦 Explore my [**GitHub repositories**](https://github.com/shubh435?tab=repositories)
+🖥️ Explore more on my [**portfolio website**](https://shubh435.github.io/)  
+📦 Check out my [**GitHub repositories**](https://github.com/shubh435?tab=repositories)
 
 ---
 
 ## 🎓 Education
 
-- 🎓 **Master of Computer Applications** – North Maharashtra University, Jalgaon (2021–2022)  
-- 🎓 **Bachelor of Computer Science** – RTMNU University, Nagpur (2017–2020)
+- **Master of Computer Applications** – North Maharashtra University, Jalgaon (2021–2022)  
+- **Bachelor of Computer Science** – RTMNU University, Nagpur (2017–2020)
 
 ---
 
 ## 🏆 Achievements
 
-- ⭐ **Employee of the Month** – Extended Web App Tech (Jan 2023)  
-- 💌 **Client Appreciation Email** – from client Builder.ai (Jun 2024)
+- 🏅 **Employee of the Month** – Extended Web App Tech (Jan 2023)  
+- 💬 **Client Appreciation** – from Builder.ai, recognized by manager Sakshi Galot (Jun 2024)
 
 ---
 
 ## 📜 Certifications
 
-- [React JS Basics – HackerRank](https://www.hackerrank.com/certificates/c3fae77132b7)  
-- [Responsive Web Design – freeCodeCamp](https://www.freecodecamp.org/certification/fccaeeb8f43-5dd6-425d-87bf-4f00524e6be4/responsive-web-design)
+- ✅ [React JS Basics – HackerRank](https://www.hackerrank.com/certificates/c3fae77132b7)  
+- ✅ [Responsive Web Design – freeCodeCamp](https://www.freecodecamp.org/certification/fccaeeb8f43-5dd6-425d-87bf-4f00524e6be4/responsive-web-design)
 
 ---
 
-## 📫 Get in Touch
+## 📫 Let's Connect
 
 - 📧 Email: [shubhamsarode435@gmail.com](mailto:shubhamsarode435@gmail.com)  
 - 💼 LinkedIn: [linkedin.com/in/shubhamsarode-dev](https://www.linkedin.com/in/shubhamsarode-dev/)  
 - 🧑‍💻 GitHub: [github.com/shubh435](https://github.com/shubh435)
 
-> 🚀 *Open to freelance opportunities, tech collaborations, and full-time roles in front-end/Back-end/mobile/desktop/web development!*
+---
 
+> 🚀 *Open to freelance work, collaborations, and full-time opportunities in front-end, back-end, and mobile development!*
