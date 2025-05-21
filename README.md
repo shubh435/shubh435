@@ -61,7 +61,7 @@ A unique social + food platform combining Zomato and Instagram functionalities:
 ## 🏆 Achievements
 
 - ⭐ **Employee of the Month** – Extended Web App Tech (Jan 2023)  
-- 💌 **Client Appreciation Email** – from manager Sakshi Galot (Jun 2024)
+- 💌 **Client Appreciation Email** – from client Builder.ai (Jun 2024)
 
 ---
 
