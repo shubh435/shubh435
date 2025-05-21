@@ -22,6 +22,13 @@ Git · GitHub · GitLab · Bitbucket · Firebase · Google Maps API · Figma · 
 
 ## 💼 Featured Projects
 
+### 👩‍👧‍👦 Medical Trial (Feb 2025 – Current)
+A React Native-based Mobile app for to organize survey from doctor to patient vie social media connection, featuring:
+- Chat & call using Quickblox, React native agora
+- Firebase Auth (Social, OTP)
+- Real-time chat & push notifications
+- Referral system & Reward subcription based intergration.
+
 ### 👩‍👧‍👦 Parents Who Date (Feb 2024 – July 2024)
 A React Native-based social dating app designed for single parents, featuring:
 - Firebase Auth (Social, OTP)
@@ -78,5 +85,5 @@ A unique social + food platform combining Zomato and Instagram functionalities:
 - 💼 LinkedIn: [linkedin.com/in/shubhamsarode-dev](https://www.linkedin.com/in/shubhamsarode-dev/)  
 - 🧑‍💻 GitHub: [github.com/shubh435](https://github.com/shubh435)
 
-> 🚀 *Open to freelance opportunities, tech collaborations, and full-time roles in front-end/mobile development!*
+> 🚀 *Open to freelance opportunities, tech collaborations, and full-time roles in front-end/Back-end/mobile/desktop/web development!*
 
