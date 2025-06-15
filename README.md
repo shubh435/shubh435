@@ -40,19 +40,19 @@ Git · GitHub · GitLab · Bitbucket · Docker (Basic) · Vercel · GitHub Pages
   Mobile app for patient survey collection via doctor referrals & social media  
   _QuickBlox & Agora chat/video · Firebase Auth & OTP · Rewards & push notifications · Subscription/referral tracking_
 
-- **👩‍👧‍👦 [Parents Who Date (2024)]()**  
+- **👩‍👧‍👦 Parents Who Date (2024)**  
   Social+dating app for single parents  
   _Firebase Auth · Geolocation · Real-time chat · Push notifications · Referral system_
 
-- **🍽️ [Fudu (2023–2024)]()**  
+- **🍽️ Fudu (2023–2024)**  
   Social food platform (like Zomato + Instagram)  
   _Restaurant discovery · Social posts, likes, reviews · Firebase suite_
 
-- **📚 [21K Shared Services INR (2022–2023)]()**  
+- **📚 21K Shared Services INR (2022–2023)**  
   Company wiki, referral program, and live video features  
   _React/React Native · Video SDK · Rich text editing_
 
-- **💇 [Salon Web App (2022)]()**  
+- **💇 Salon Web App (2022)**  
   Responsive dashboard for appointment booking and service browsing  
   _React JS · Redux · MUI · Real-time updates_
 
