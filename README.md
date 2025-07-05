@@ -6,7 +6,7 @@
 
 ---
 
-Hi, I'm **Shubham Sarode** – a passionate Software Engineer with **3.7+ years of experience** building modern, scalable, and performant web & mobile applications.  
+Hi, I'm **Shubham Sarode** – a passionate Software Engineer with **3+ years of experience** building modern, scalable, and performant web & mobile applications.  
 I specialize in **React Native**, **React JS**, and the **JavaScript/TypeScript** ecosystem, focusing on seamless UI/UX, clean architecture, and robust test coverage.
 
 - 🚀 I thrive in agile teams, love solving real-world problems, and enjoy working across the full development lifecycle.
