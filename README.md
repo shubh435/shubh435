@@ -40,7 +40,7 @@ Git · GitHub · GitLab · Bitbucket · Docker (Basic) · Vercel · GitHub Pages
    · Firebase Auth & Analytics   · Rewards & push notifications · Subscription/referral tracking_ . Sentry error monitoring  .  Microsoft Clarity analytics
 
 
-- **🧪 [Medical Trial (Feb-2025 to Jun-2025)]()**  
+- **🧪 Medical Trial (Feb-2025 to Jun-2025)**  
   Mobile app for patient survey collection via doctor referrals & social media  
   _QuickBlox & Agora chat/video · Firebase Auth & OTP · Rewards & push notifications · Subscription/referral tracking_
 
