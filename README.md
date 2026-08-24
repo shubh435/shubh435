@@ -35,9 +35,9 @@ Git · GitHub · GitLab · Bitbucket · Docker (Basic) · Vercel · GitHub Pages
 ---
 
 ## 💼 Featured Projects
-- **🧪 [PICKUP COFFEE (Jul-2025 to Present)](https://play.google.com/store/apps/details?id=com.pickupcoffee.pickupcoffee&hl=en_IN)**  
+- **🧪 [PICKUP COFFEE (Jul-2025 to July-2026)](https://play.google.com/store/apps/details?id=com.pickupcoffee.pickupcoffee&hl=en_IN)**  
     Mobile e-commerce app for coffee lovers with seamless product management and real-time notifications.  
-   · Firebase Auth & Analytics   · Rewards & push notifications · Subscription/referral tracking_ . Sentry error monitoring  .  Microsoft Clarity analytics
+   · Firebase Auth & Analytics   · Rewards & push notifications · Subscription/referral tracking_ . Sentry error monitoring .  Microsoft Clarity analytics
 
 
 - **🧪 Medical Trial (Feb-2025 to Jun-2025)**  
